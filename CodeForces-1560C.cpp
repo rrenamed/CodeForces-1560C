@@ -26,5 +26,6 @@ int main() {
         else
             cout << sqrtC << " " << sqrtC * sqrtC - _case + 1 << "\n";
     }
-  return 0;
+	//getchar();
+	return 0;
 }
