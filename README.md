@@ -1,5 +1,6 @@
 # CodeForces-1560C
 My 1st codeforces problem
+
 https://codeforces.com/problemset/problem/1560/C
 
 ## Visualization
